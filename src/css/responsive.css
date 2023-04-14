@@ -1,0 +1,10 @@
+@media(max-width: 768px){
+    .advice{
+        padding: 7px;
+        width: 460px;
+    }
+    .advice-message{
+        font-size: 21px;
+        padding: 26px;
+    }
+}
